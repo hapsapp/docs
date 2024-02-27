@@ -7,4 +7,8 @@ filename: index
 
 On this page you can find documents related to privacy policy and data deletion.
 
+[Privacy Policy](https://hapsapp.github.io/docs/privacy)
+
+[Data](https://hapsapp.github.io/docs/data)
+
 **February 2024**
